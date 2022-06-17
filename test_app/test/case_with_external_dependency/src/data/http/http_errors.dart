@@ -1,0 +1,1 @@
+class InvalidDataTypeException implements Exception {}
